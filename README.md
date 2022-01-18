@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rony Barua</h1>
-<h3 align="center">An Optimistic Junior MERN Stack Developer</h3>
+<h3 align="center">An Optimistic MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronybarua-ethical18&label=Profile%20views&color=0e75b6&style=flat" alt="ronybarua-ethical18" /> </p>
 
