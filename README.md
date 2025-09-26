@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rony Barua</h1>
-<h3 align="center">An Optimistic MERN Stack Developer</h3>
+<h3 align="center">An Optimistic Full Stack Engineer with 3+ years of Experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronybarua-ethical18&label=Profile%20views&color=0e75b6&style=flat" alt="ronybarua-ethical18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronybarua-ethical18" alt="ronybarua-ethical18" /></a> </p>
 
-- 🔭 I’m currently working on [Red Onion Foods Full Stack App](https://red-onion-restaurant-fullstack.web.app/)
+- 🔭 I’m currently working on [StyleVibe - A Full Stack Application](https://stylevibe-app.vercel.app/)
 
-- 🌱 I’m currently learning **React Native, GraphQl, AWS, D3.js, Next Js**
+- 🌱 I’m currently learning **LLM APIs, Vector DB, LangChain, Cloud deployment, System Design**
 
-- 👨‍💻 All of my projects are available at [https://ronybarua-webdev21.web.app/](https://ronybarua-webdev21.web.app/)
+- 👨‍💻 All of my projects are available at [My portfolio site](https://rony-portfolio-20.vercel.app/)
 
 - 📝 I regularly write articles on [https://ronyjsdev21.medium.com/](https://ronyjsdev21.medium.com/)
 
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **Scalable System Design**
 
-- 📫 How to reach me **ronybarua.jsdev21@gmail.com**
+- 📫 How to reach me **ronybarua.ethical18@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3xFzoti](https://bit.ly/3xFzoti)
 
