@@ -14,7 +14,7 @@ Currently building **[StyleVibe](https://stylevibe-app.vercel.app)**, a salon bo
 | [full-stack-app-boilerplate](https://github.com/ronybarua-ethical18/full-stack-app-boilerplate) | The starter I use for new products. A Next.js and NestJS monorepo with JWT auth, workspaces, Prisma, Swagger and transactional email. | Next.js, NestJS, Prisma, PostgreSQL, Turborepo |
 | [design-patterns-concepts-nestjs](https://github.com/ronybarua-ethical18/design-patterns-concepts-nestjs) | Classic design patterns implemented as NestJS modules. | NestJS, TypeScript |
 
-More on the [portfolio site](https://rony-portfolio-20.vercel.app/).
+More on the [portfolio site](https://rony-portfolio-2-0.vercel.app/).
 
 ## Experience
 
