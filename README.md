@@ -55,4 +55,4 @@ I write about Node.js, system design and shipping full stack products on [Medium
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/rony-barua), [Email](mailto:ronybarua.ethical18@gmail.com) and [Portfolio]([https://rony-portfolio-20.vercel.app/](https://rony-portfolio-2-0.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/rony-barua), [Email](mailto:ronybarua.ethical18@gmail.com) and [Portfolio](https://rony-portfolio-2-0.vercel.app/)
