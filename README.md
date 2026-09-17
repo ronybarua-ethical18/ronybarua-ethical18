@@ -1,31 +1,53 @@
-<h1 align="center">Hi 👋, I'm Rony Barua</h1>
-<h3 align="center">An Optimistic Full Stack Engineer with 3+ years of Experiences.</h3>
+# Rony Barua
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronybarua-ethical18&label=Profile%20views&color=0e75b6&style=flat" alt="ronybarua-ethical18" /> </p>
+Backend-focused full-stack engineer at **Corexlab Limited** since 2021, 4+ years shipping production web apps with **Node.js (NestJS, Express), Next.js, TypeScript, PostgreSQL/MongoDB, Redis, and Stripe**. Lately building LLM agents and RAG systems with eval suites. Based in Dhaka, Bangladesh, open to remote and hybrid roles.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronybarua-ethical18" alt="ronybarua-ethical18" /></a> </p>
+Currently building **[StyleVibe](https://stylevibe-app.vercel.app)**, a salon booking marketplace: Stripe Connect hold-and-capture payments, BullMQ job queues, Socket.IO chat, and role-based dashboards in a Turborepo monorepo.
 
-- 🔭 I’m currently working on [StyleVibe - A Full Stack Application](https://stylevibe-app.vercel.app/)
+## Selected work
 
-- 🌱 I’m currently learning **LLM APIs, Vector DB, LangChain, Cloud deployment, System Design**
+| Project | What it is | Stack |
+|---|---|---|
+| [StyleVibe](https://github.com/ronybarua-ethical18/stylevibe-showcase) Â· [live](https://stylevibe-app.vercel.app) | Marketplace connecting customers with beauty professionals. Admin, seller, and customer portals with RBAC; Stripe Connect split payments with automated application fee; queue-based booking and notification pipeline; real-time booking chat. | Express, MongoDB, Redis, BullMQ, Stripe Connect, Socket.IO |
+| [nl-database-agent](https://github.com/ronybarua-ethical18/nl-database-agent) Â· [live](https://nl-database-agent.vercel.app) | Self-correcting       text-to-SQL agent: schema-aware SQL on Postgres with up to 3 with explanation, table, and chart. Locked down with SQLvalidation, read-only transactions, timeouts, row limits, and a SELECT-only role with automated privilege audits. 43-question golden dataset scored on result-set accuracy, gating PRs in GitHub Actions. | Next.js,ni API, Recharts |
+| [ai-knowledge-hub](https://github.com/ronybarua-ethical18/ai-knowledge-hub) Â· [live](https://ai-knowledge-hub-web-nine.vercel.app) | RAG platform for
+querying internal knowledge. Workspace-scoped RBAC, document chunk, embed, index) with live status, streaming chat withsource citations. | Next.js, NestJS, tRPC, Prisma/PostgreSQL, Qdrant, Redis, Gemini API |
+| [full-stack-app-boilerplate](https://github.com/ronybarua-erplate) | The starter I use for new products: Next.js + NestJS monorepo with JWT auth, workspaces, Prisma, Swagger, and transactional email. | Next.js, NestJS, Prisma/PostgreSQL, Turborepo |
+| [design-patterns-concepts-nestjs](https://github.com/ronyba-concepts-nestjs) | Classic design patterns implemented asNestJS modules. | NestJS, TypeScript |
 
-- 👨‍💻 All of my projects are available at [My portfolio site](https://rony-portfolio-20.vercel.app/)
+More on the [portfolio site](https://rony-portfolio-20.vercel.app/).
 
-- 📝 I regularly write articles on [https://ronyjsdev21.medium.com/](https://ronyjsdev21.medium.com/)
+## Experience
 
-- 💬 Ask me about **Scalable System Design**
+**Full Stack Engineer, Corexlab Limited** Â· Dec 2021 to present Â· Dhaka
 
-- 📫 How to reach me **ronybarua.ethical18@gmail.com**
+- Led 4+ full-stack projects, including **USEND**, a Shopify dropshipping app running in production at 99.9% uptime.
+- Contributing to **Smaply**, a journey-mapping SaaS, across
+- Cut API response times by up to 40% through query optimization and Redis caching; set up CI/CD with GitHub Actions.
+- Unit and integration testing with Jest, Vitest, and React Tcode review.
 
-- 📄 Know about my experiences [https://bit.ly/3xFzoti](https://bit.ly/3xFzoti)
+**Frontend Developer, Flyte Solutions** Â· Jul to Dec 2021 Â· D
 
-- ⚡ Fun fact **Eat, Code, Sleep, Repeat like a recursive function !**
+- Built Next.js UIs for client projects and optimized data fend API latency by about 20%.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**B.Sc. in Computer Science and Engineering**, Port City InteCGPA 3.72
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronybarua-ethical18&show_icons=true&locale=en&layout=compact" alt="ronybarua-ethical18" /></p>
+Certifications: Claude Code in Action (Anthropic) Â· Getting Srn) Â· JavaScript Algorithms and Data Structures (freeCodeCamp)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronybarua-ethical18&show_icons=true&locale=en" alt="ronybarua-ethical18" /></p>
+## What I care about
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronybarua-ethical18&" alt="ronybarua-ethical18" /></p>
+- Payments and booking systems that stay correct under concurnt jobs, capture windows.
+- LLM features that are measurable. The agents I ship come with eval sets and regression gates.
+- Boring, well-structured backends: one module layout, one er.
+
+## Toolbox
+
+TypeScript Â· Node.js Â· NestJS Â· Express Â· Next.js Â· React Â· RÂ· PostgreSQL Â· MongoDB Â· Prisma Â· Redis Â· BullMQ Â· Stripe Â·Shopify API Â· Socket.IO Â· Docker Â· AWS Lightsail Â· Vercel Â· GitHub Actions Â· Sentry Â· Jest Â· Vitest Â· n8n Â· MCP
+
+## Writing
+
+I write about Node.js, system design, and shipping full-stack products on [Medium](https://ronyjsdev21.medium.com/).
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/rony-barua) Â· [Email](mailto:ronybarua.ethical18@gmail.com) Â· [Portfolio](https://rony-portfolio-20.vercel.app/)
